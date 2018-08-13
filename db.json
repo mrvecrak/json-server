@@ -1,9 +1,48 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "rss" : {
+        "version" : "2.0",
+        "channel" : {
+            "title" : "Tayfun Erbilen",
+            "link" : "http://www.erbilen.net/",
+            "language" : "tr",
+            "item" : [
+                {
+                    "title" : "ComarSever.Net",
+                    "link" : "http://www.erbilen.net/projeler/482-comarsevernet.html",
+                    "description" : "<![CDATA[Köpeğim çomar ve diğer tüm sokak hayvanları hakkında paylaşım yapabileceğim bir blog açtım.. Bu blog tamamen çomar ve diğer tüm sokak hayvanlarını ilgilendiren yazılar, videolar ve resimlerden ibaret olacak.. Bazen yüzünüzü güldürecek, bazen sizi üzecek yazılar olacak bu blogta.. Ne çok ütopik, ne çok gerçek yazılar olacak..]]>",
+                    "category" : "<![CDATA[ Projeler ]]>"
+                },
+                {
+                    "title" : "ComarSever.Net",
+                    "link" : "http://www.erbilen.net/projeler/482-comarsevernet.html",
+                    "description" : "<![CDATA[Köpeğim çomar ve diğer tüm sokak hayvanları hakkında paylaşım yapabileceğim bir blog açtım.. Bu blog tamamen çomar ve diğer tüm sokak hayvanlarını ilgilendiren yazılar, videolar ve resimlerden ibaret olacak.. Bazen yüzünüzü güldürecek, bazen sizi üzecek yazılar olacak bu blogta.. Ne çok ütopik, ne çok gerçek yazılar olacak..]]>",
+                    "category" : "<![CDATA[ Projeler ]]>"
+                },
+                {
+                    "title" : "ComarSever.Net",
+                    "link" : "http://www.erbilen.net/projeler/482-comarsevernet.html",
+                    "description" : "<![CDATA[Köpeğim çomar ve diğer tüm sokak hayvanları hakkında paylaşım yapabileceğim bir blog açtım.. Bu blog tamamen çomar ve diğer tüm sokak hayvanlarını ilgilendiren yazılar, videolar ve resimlerden ibaret olacak.. Bazen yüzünüzü güldürecek, bazen sizi üzecek yazılar olacak bu blogta.. Ne çok ütopik, ne çok gerçek yazılar olacak..]]>",
+                    "category" : "<![CDATA[ Projeler ]]>"
+                },
+                {
+                    "title" : "ComarSever.Net",
+                    "link" : "http://www.erbilen.net/projeler/482-comarsevernet.html",
+                    "description" : "<![CDATA[Köpeğim çomar ve diğer tüm sokak hayvanları hakkında paylaşım yapabileceğim bir blog açtım.. Bu blog tamamen çomar ve diğer tüm sokak hayvanlarını ilgilendiren yazılar, videolar ve resimlerden ibaret olacak.. Bazen yüzünüzü güldürecek, bazen sizi üzecek yazılar olacak bu blogta.. Ne çok ütopik, ne çok gerçek yazılar olacak..]]>",
+                    "category" : "<![CDATA[ Projeler ]]>"
+                },
+                {
+                    "title" : "ComarSever.Net",
+                    "link" : "http://www.erbilen.net/projeler/482-comarsevernet.html",
+                    "description" : "<![CDATA[Köpeğim çomar ve diğer tüm sokak hayvanları hakkında paylaşım yapabileceğim bir blog açtım.. Bu blog tamamen çomar ve diğer tüm sokak hayvanlarını ilgilendiren yazılar, videolar ve resimlerden ibaret olacak.. Bazen yüzünüzü güldürecek, bazen sizi üzecek yazılar olacak bu blogta.. Ne çok ütopik, ne çok gerçek yazılar olacak..]]>",
+                    "category" : "<![CDATA[ Projeler ]]>"
+                },
+                {
+                    "title" : "ComarSever.Net",
+                    "link" : "http://www.erbilen.net/projeler/482-comarsevernet.html",
+                    "description" : "<![CDATA[Köpeğim çomar ve diğer tüm sokak hayvanları hakkında paylaşım yapabileceğim bir blog açtım.. Bu blog tamamen çomar ve diğer tüm sokak hayvanlarını ilgilendiren yazılar, videolar ve resimlerden ibaret olacak.. Bazen yüzünüzü güldürecek, bazen sizi üzecek yazılar olacak bu blogta.. Ne çok ütopik, ne çok gerçek yazılar olacak..]]>",
+                    "category" : "<![CDATA[ Projeler ]]>"
+                }
+            ]
+        }
+    }
 }
